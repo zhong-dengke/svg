@@ -1,0 +1,72 @@
+{
+  "huaifu": {
+    "tbmNum": 755,
+    "projectName": "huaifu",
+    "scale": {
+      "width": 1713,
+      "height": 600
+    },
+    "colorArr": [
+      [255, 255, 150],
+      [255, 125, 200],
+      [255, 0, 200],
+      [142, 142, 250],
+      [200, 28, 50],
+      [153, 0, 50],
+      [127, 96, 250],
+      [102, 0, 100],
+      [120, 63, 0],
+      [91, 15, 250]
+    ],
+    "excelHightWidth": {
+      "heightNum": 235,
+      "widthNum": 30043
+    },
+    "pathStr": "M0.0002 0.4086",
+    "totalRing": 882
+  },
+  "liuxiandong": {
+    "tbmNum": 780,
+    "projectName": "liuxiandong",
+    "scale": {
+      "width": 2205,
+      "height": 400
+    },
+    "colorArr": [
+      [255, 125, 200],
+      [142, 142, 250],
+      [255, 255, 150],
+      [127, 96, 250],
+      [255, 0, 200],
+      [200, 28, 250],
+      [91, 15, 100]
+    ],
+    "excelHightWidth": {
+      "heightNum": 165,
+      "widthNum": 10072
+    },
+    "pathStr": "M0.0004 0.4085",
+    "totalRing": 1480
+  },
+  "shiyaling": {
+    "tbmNum": 739,
+    "projectName": "shiyaling",
+    "scale": {
+      "width": 3270,
+      "height": 470
+    },
+    "colorArr": [
+      [255, 125, 250],
+      [142, 142, 250],
+      [255, 255, 150],
+      [200, 28, 250],
+      [91, 15, 250]
+    ],
+    "excelHightWidth": {
+      "heightNum": 211,
+      "widthNum": 10204.66
+    },
+    "pathStr": "M0 0.4427",
+    "totalRing": 739
+  }
+}
